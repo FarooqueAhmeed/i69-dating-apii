@@ -1,6 +1,6 @@
 
 # i69 API https://i69app.com/
-#WELCOME TO i69 a dating apps API, MEET AND CHAT WITH PEOPLE NEAR BY
+#WELCOME TO i69 a dating apps ( Android and IOS ) API, MEET AND CHAT WITH PEOPLE NEAR BY
 -----------------------------------
  # Deployments Guidance 
 
